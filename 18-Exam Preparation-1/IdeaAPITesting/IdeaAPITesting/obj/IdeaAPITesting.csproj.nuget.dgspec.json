@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {
+    "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
         "projectName": "IdeaAPITesting",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

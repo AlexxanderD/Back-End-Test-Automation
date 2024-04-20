@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\solutions_angel_georgiev (1)\\ideaapitesting\\ideaapitesting\\ideaapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\back-end test automation\\18-exam preparation-1\\ideaapitesting\\ideaapitesting\\ideaapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\ideaapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\solutions_angel_georgiev (1)\\ideaapitesting\\ideaapitesting\\ideaapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\back-end test automation\\18-exam preparation-1\\ideaapitesting\\ideaapitesting\\ideaapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\ideaapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\solutions_angel_georgiev (1)\\ideaapitesting\\ideaapitesting\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\back-end test automation\\18-exam preparation-1\\ideaapitesting\\ideaapitesting\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\solutions_angel_georgiev (1)\\ideaapitesting\\ideaapitesting\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\acer\\desktop\\back-end test automation\\18-exam preparation-1\\ideaapitesting\\ideaapitesting\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA914D-CE07-4AAC-AD96-0D80F7B28BDF}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IdeaAPITesting.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
               "RelativeDocumentMoniker": "IdeaAPITesting\\IdeaAPITesting.csproj",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
               "RelativeToolTip": "IdeaAPITesting\\IdeaAPITesting.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IdeaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
               "RelativeDocumentMoniker": "IdeaAPITesting\\Models\\IdeaDTO.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
               "RelativeToolTip": "IdeaAPITesting\\Models\\IdeaDTO.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApiResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
               "RelativeDocumentMoniker": "IdeaAPITesting\\Models\\ApiResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
               "RelativeToolTip": "IdeaAPITesting\\Models\\ApiResponseDTO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IdeaAPITests.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
               "RelativeDocumentMoniker": "IdeaAPITesting\\IdeaAPITests.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Solutions_Angel_Georgiev (1)\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Back-End Test Automation\\18-Exam Preparation-1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
               "RelativeToolTip": "IdeaAPITesting\\IdeaAPITests.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAYwH8AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T20:09:35.678Z",
               "EditorCaption": ""
